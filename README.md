@@ -6,7 +6,8 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-<h1 align="center" style="color: #0ff; background: linear-gradient(90deg, #0ff, #00f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+<h1 align="center" style="color: #0ff; background: linear-gradient(90deg, #0ff, #00f);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   👨🏼‍💻 <strong>Everton Gomes</strong>
 </h1>
 
@@ -14,7 +15,7 @@
 **`Estudante de Engenharia da Computação e Desenvolvedor FullStack`**
 
 Olá! Eu sou o Everton Lima Gomes
-Apaixonado por Computação e Tecnologia estou em transição de carreira para a área de tecnologia.
+Apaixonado por Computação e Tecnologia, estou em transição de carreira para a área de tecnologia.
 
 Sou de Diadema - SP, tenho 27 anos e atualmente estudo na Faculdade Engenheiro Salvador Arena. Tenho formação técnica em Eletromecânica e Mecânica, e após atuar nessas áreas, decidi seguir minha paixão pela tecnologia.
 
