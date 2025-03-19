@@ -15,7 +15,7 @@
 </h1>
 
 
-**`Estudante de Engenharia da Computação e Desenvolvedor FullStack`**
+**`Estudante de Engenharia de Computação e Desenvolvedor FullStack`**
 
 Olá! Eu sou o Everton Lima Gomes
 Apaixonado por Computação e Tecnologia, estou em transição de carreira para a área de tecnologia.
