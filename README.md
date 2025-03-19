@@ -138,17 +138,13 @@ Já estagiei com Desenvolvimento de Software e hoje trabalho como Técnico de Su
 <br/>
 
 ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EvertonLG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  <img
+  align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+        style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=EvertonLG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
-
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -156,7 +152,6 @@ Já estagiei com Desenvolvimento de Software e hoje trabalho como Técnico de Su
         style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonlg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
-
 </p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvertonLG/EvertonLG/output/github-contribution-grid-snake-dark.svg">
