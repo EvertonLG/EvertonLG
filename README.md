@@ -9,6 +9,9 @@
 <h1 align="center" style="color: #0ff; background: linear-gradient(90deg, #0ff, #00f);
   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   👨🏼‍💻 <strong>Everton Gomes</strong>
+
+ </p> 
+  
 </h1>
 
 
