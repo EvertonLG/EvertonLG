@@ -30,13 +30,10 @@ Já estagiei com Desenvolvimento de Software e hoje trabalho como Técnico de Su
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EvertonLG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Linkedin&logoColor=white"
-        />
-    </a>
+            src="https://custom-icon-badges.demolab.com/github/followers/EvertonLG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=testelink&label=Linkedin&logoColor=white"
+       
     
 </p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 <img 
