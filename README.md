@@ -143,4 +143,8 @@ Já estagiei com Desenvolvimento de Software e hoje trabalho como Técnico de Su
   />
 
 </p>
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvertonLG/EvertonLG/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvertonLG/EvertonLG/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EvertonLG/EvertonLG/output/github-contribution-grid-snake.svg">
+</picture>
