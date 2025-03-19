@@ -1,4 +1,15 @@
-#  👱🏻 Everton Gomes
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+Vindo+ao+meu+perfil+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<img align="center" alt="" src="./src/header-gif.gif">
+
+<h1 align="center" style="color: #0ff; background: linear-gradient(90deg, #0ff, #00f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  👨🏼‍💻 <strong>Everton Gomes</strong>
+</h1>
+
 
 **`Estudante de Engenharia da Computação e Desenvolvedor FullStack`**
 
