@@ -15,7 +15,7 @@
 </h1>
 
 
-**`Estudante de Engenharia de Computação e Desenvolvedor FullStack`**
+**`Estudante de Engenharia de Computação e Analista de Implementação Jr`**
 
 Olá, bem vindo eu sou o Everton e sou apaixonado por Computação e Tecnologia, estou em transição de carreira para a área de tecnologia.
 
