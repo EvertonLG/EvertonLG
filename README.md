@@ -19,7 +19,7 @@
 
 Olá, bem vindo eu sou o Everton e sou apaixonado por Computação e Tecnologia, estou em transição de carreira para a área de tecnologia.
 
-Sou de Diadema - SP, tenho 27 anos e atualmente estou no sexto semestre do curso de Eng. de Computação na Faculdade Engenheiro Salvador Arena. Tenho formação técnica em Eletromecânica e Mecânica, e após atuar nessas áreas, decidi seguir minha paixão pela tecnologia.
+Sou de Diadema - SP, tenho 28 anos e atualmente estou no sexto semestre do curso de Eng. de Computação na Faculdade Engenheiro Salvador Arena. Tenho formação técnica em Eletromecânica e Mecânica, e após atuar nessas áreas, decidi seguir minha paixão pela tecnologia.
 
 Já estagiei com Desenvolvimento de Software e hoje trabalho como Técnico de Suporte de TI N1. No meu tempo livre, estou sempre aprendendo, criando projetos e ampliando meu portfólio, enfrentando cada desafio como uma oportunidade de crescimento.
 
